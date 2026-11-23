@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Little Lemon Chicago">
+  <rect width="1200" height="630" fill="#495E57" />
+  <circle cx="220" cy="315" r="110" fill="#F4CE14" />
+  <ellipse cx="220" cy="315" rx="70" ry="44" transform="rotate(-25 220 315)" fill="#495E57" />
+  <ellipse cx="220" cy="315" rx="56" ry="32" transform="rotate(-25 220 315)" fill="#F4CE14" />
+  <text x="380" y="290" fill="#F4CE14" font-family="Georgia, serif" font-size="88" font-weight="700">Little Lemon</text>
+  <text x="380" y="365" fill="#EDEFEE" font-family="Arial, sans-serif" font-size="40">Chicago — Mediterranean Restaurant</text>
+  <text x="380" y="435" fill="#FBDABB" font-family="Arial, sans-serif" font-size="28">Reserve a Table Online</text>
+</svg>
